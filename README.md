@@ -1,4 +1,4 @@
 DeadGenome
 ==========
 
-Proyecto final de Desarrolle de Videojuegos
+Proyecto final de Desarrollo de Videojuegos
